@@ -19,7 +19,7 @@ curl_setopt_array($curl, array(
     CURLOPT_POSTFIELDS => "origin=501&destination=" . $distrik . "&weight=" . $berat . "&courier=" . $ekspedisi,
     CURLOPT_HTTPHEADER => array(
         "content-type: application/x-www-form-urlencoded",
-        "key: b0c6b975381b0bad98a12d7498c79545"
+        "key: " // Masukan key
     ),
 ));
 
