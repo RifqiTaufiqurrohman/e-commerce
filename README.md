@@ -17,3 +17,12 @@ This PHP-based e-commerce application is designed for CR Hijup. It offers a comp
 3. Raja Ongkir API: Shipping rate calculation.
 4. Fonnte API: Notification services.
 
+## Images
+**Dashboard**
+![alt text](https://github.com/RifqiTaufiqurrohman/e-commerce/blob/main/assets/images/dashboard.png?raw=true)
+**Keranjang**
+![alt text](https://github.com/RifqiTaufiqurrohman/e-commerce/blob/main/assets/images/keranjang.png?raw=true)
+**Pembayaran**
+![alt text](https://github.com/RifqiTaufiqurrohman/e-commerce/blob/main/assets/images/bayar.png?raw=true)
+**Dashboard Admin**
+![alt text](https://github.com/RifqiTaufiqurrohman/e-commerce/blob/main/assets/images/admin.png?raw=true)
